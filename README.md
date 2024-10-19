@@ -1,6 +1,6 @@
 # WKnockOut - Your Customizable Management Discord BOT
 
-![alt text](![alt text](https://github.com/wko8/wknockout-website/blob/master/public/images/readme.png?raw=true)
+![alt text](https://github.com/wko8/wknockout-website/blob/master/public/images/readme.png?raw=true)
 
 # Features
 
